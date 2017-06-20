@@ -21,3 +21,7 @@ a {
     box-sizing: border-box;
     color: white;
 }
+
+.col-sm-12 {
+    width: 90%;
+}
